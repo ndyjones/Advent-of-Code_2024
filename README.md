@@ -34,8 +34,8 @@ Each folder contains:
 - input.txt: a blank file where I run my solutions with the actual input during testing. Inputs are not included to respect advent of code's guidelines.
 
 ## acknowledgments
-- Thanks to [advent of code](advent of code) for providing such an engaging and educational challenge! let's hope my attention span holds out for a lil bit.
-- This repository is inspired by the many pythonistas sharing their learning journey.
+- Thanks to [advent of code](https://adventofcode.com/) for providing such an engaging and educational challenge! let's hope my attention span holds out for a lil bit.
+- This repository is inspired by the many pythonistas sharing their learning journey. Also, my out of control adhd.
 
 ## notes
 - disclaimer: I am a python newbie, so my solutions may not be the most efficient or elegant. Suggestions for improvement are always welcome! 😊
