@@ -18,6 +18,7 @@ Github: ndyjones
 with open('input.txt', 'r') as file:
     matrix = [line.strip() for line in file]
 
+## TEST input
 # matrix = [
 #     "XMAS",
 #     "SAMX",
